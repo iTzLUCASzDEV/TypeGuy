@@ -16,3 +16,10 @@ Dia 9 de Novembro de 2021
 4. Botão para gerar novas frases.
 
 5. Possui HiperLinks que abrem abas.
+
+Versão 1.1
+
+Dia 11 de Novembro de 2021
+
+
+1. Todos os estilos dos itens do site foram alterados para que não mudem de tamanho de nenhuma forma.
