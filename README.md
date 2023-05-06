@@ -1,5 +1,8 @@
 # TypeGuy
 # Lançado dia 9 de Novembro de 2021
+
+Link: https://typeguy.netlify.app/
+
 Um site para ver a velocidade de digitação.
 
 Versão 1.0
