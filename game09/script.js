@@ -86,9 +86,11 @@ function verificaLetra() {
             }
         }
     }
-    if (inputText == fraseAtual) {
-        for (element in inputText) {
-            frase.fraseAtualiza(element, 'blue')
+    if (inputText.length >= fraseAtual.length) {
+        if (inputText[inputText.length - 1] == fraseAtual[inputText.length - 1]) {
+            for (element in inputText) {
+                frase.fraseAtualiza(element, 'blue')
+            }
         }
     } else {
         requestIdleCallback(verificaLetra)
